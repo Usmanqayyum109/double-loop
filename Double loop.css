@@ -1,0 +1,47 @@
+header{
+    text-align: center;
+    font-size: 30px;
+    font-style: inherit;
+    background-color: #dfcfbe;
+    padding: 20px 10px;
+    overflow: hidden;
+    line-height: 35px;
+    border-radius: 4px;
+    display: block;
+    
+}
+
+section{
+    display: flex;
+
+    flex-flow: row wrap;
+    margin-left: auto;
+    margin-left: auto;
+}
+article{
+    flex: 200px;
+    margin:10px ;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+input{
+    color: #9b2335;
+    background-color: wheat;
+    border-radius: 5px solid;
+    
+}
+button{
+    background-color: #e15d44;
+    border: 1px solid;
+}
+button:hover{
+    font-size: 20px;
+}
+label{
+    background-color: #efc050;
+    border: 3px solid;
+}
+
+    
+    
